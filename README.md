@@ -1,5 +1,5 @@
 ---
-title: New API
+title: Open API
 emoji: 🚀
 colorFrom: blue
 colorTo: red
